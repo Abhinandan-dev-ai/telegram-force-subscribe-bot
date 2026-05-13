@@ -113,5 +113,5 @@ Built with [python-telegram-bot](https://github.com/python-telegram-bot/python-t
 ---
 
 <p align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/Abhinandan-dev-ai"><b>Abhinandan</b></a></sub>
+  <sub>Made with ❤️ by <a href="https://github.com/Abhinandan-dev-ai"><b>Abhinandan Mishra</b></a></sub>
 </p>
